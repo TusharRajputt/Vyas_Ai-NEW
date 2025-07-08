@@ -50,10 +50,10 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-white font-semibold mb-4">Contact Info</h3>
             <address className="text-gray-400 not-italic">
-              <p className="mb-2">NH44,po Nagrota, Jagti</p>
-              <p className="mb-2">Jammu and Kashmir 181221</p>
-              <p className="mb-2">Email: yamuna.prasad@iitjammu.ac.in</p>
-              <p>Phone:+91 0123456789</p>
+              <p className="mb-2">NH44,po Nagrota</p>
+              <p className="mb-2">Jammu and Kashmir </p>
+              <p className="mb-2">Email: tusharrajput4490@gmail.com</p>
+              <p>Phone:+91 xxxxxxxxxx</p>
             </address>
           </div>
         </div>
